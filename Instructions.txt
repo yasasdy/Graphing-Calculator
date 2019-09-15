@@ -1,0 +1,18 @@
+Instructions :
+        It works like a normal graphic calculator, hence the basic rules apply
+1.) Please do not enter both the variables (x, y) in the same equation
+
+2.) If f(x) is the given function, then the equation is assumed to y=f(x) even
+though "y=" is not given and vice versa if 'y' is the variable.
+
+3.) This is only a graph plotter and not an equation solver. Hence it is advised
+not to enter '=' if a variable is inputted
+
+4.) If the given equation doesnt contain any variable, please choose whether
+the graph (if wanted to be drawn) should be drawn parallel to 'x' or 'y' axis
+
+5.) The program is written for only integer/integer division. Hence 3/2 will
+return 1
+
+6.) Once the graph is plotted, press 1 to increase the scale and 0 to decrease 
+it
